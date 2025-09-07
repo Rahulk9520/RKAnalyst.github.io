@@ -47,7 +47,7 @@
 ---
 
 ## 📁 Project Structure
-
+```
 portfolio-website/
 ├── assets/
 │ ├── css/
@@ -59,7 +59,6 @@ portfolio-website/
 ├── index.html        # Main portfolio page
 ├── LICENSE           # CC BY 3.0 License
 └── README.md 
-
 
 ---
 
