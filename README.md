@@ -60,6 +60,7 @@ portfolio-website/
 ├── LICENSE           # CC BY 3.0 License
 └── README.md 
 
+```
 ## 🎯 Sections Overview
 
 ### 🏠 **Banner**
