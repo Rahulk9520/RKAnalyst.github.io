@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-**🔗 [View Live Portfolio](https://your-domain.com)** *(Update with your deployed URL)*
+**🔗 [View Live Portfolio](https://rahulk9520.github.io/RKAnalyst.github.io/)** 
 
 ---
 
