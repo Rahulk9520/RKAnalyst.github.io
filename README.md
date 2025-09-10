@@ -224,9 +224,9 @@ While this is a personal portfolio, suggestions and improvements are welcome!
 
 ## 📊 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/portfolio-website)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/portfolio-website)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/portfolio-website)
+![GitHub repo size](https://img.shields.io/github/repo-size/Rahulk9520/RKAnalyst.github.io/)
+![GitHub last commit](https://img.shields.io/github/last-commit/Rahulk9520/RKAnalyst.github.io/)
+![GitHub issues](https://img.shields.io/github/issues/Rahulk9520/RKAnalyst.github.io/)
 
 ---
 
